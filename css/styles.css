@@ -1,0 +1,23 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+	
+body h1 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body h3 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#title {
+	background-color: #454242;
+	color: #f9f9f9;
+}
+#phonepicture img {
+	margin: auto 30px;
+	max-width: 40%;
+	transform: 30deg;
+}
+
